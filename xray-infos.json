@@ -1,0 +1,7 @@
+{
+  "fields": {
+    "summary":"Test démo runner - build <build>",
+    "description":"Build et report: https://jenkins-tao.laforge.cloud.bpifrance.fr/job/<job>/<build>",
+    "customfield_11828":["<testPlanKey>"]
+  }
+}
